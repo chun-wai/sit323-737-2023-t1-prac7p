@@ -1,0 +1,18 @@
+week 6: Kubernetes Deployment and Services 
+Setting up of the environment
+
+created some containers
+identity
+scalability
+avoid single point of failure
+
+executed some of our services using those containers
+
+deploy the services
+Kubernetes is the open-source platform for the deployment of the services
+
+1. Set up the environment, install Kubernetes on our system
+
+Open Docker Desktop application
+Go to Settings
+Kubernetes
